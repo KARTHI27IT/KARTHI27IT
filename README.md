@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KARTHIKEYAN
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning B.Tech IT
+- 🌱 I’m currently learning B.Tech IT at CIT Chennai
 
